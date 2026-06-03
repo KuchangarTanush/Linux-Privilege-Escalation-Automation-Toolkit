@@ -27,4 +27,17 @@ The toolkit scans for insecure permissions, dangerous binaries, weak configurati
 - Linux Security Concepts
 - Privilege Escalation Techniques
 
-## 📂 Project Structure
+---
+
+# ⚙️ Requirements
+
+Before running the project, make sure you have:
+
+- Linux Operating System
+- Python 3.x installed
+- Terminal access
+
+Check Python installation:
+
+```bash
+python3 --version
